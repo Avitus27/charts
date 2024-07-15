@@ -21,6 +21,10 @@
           "url": "https://www.github.com/avitus27",
           "email": "no@example.com"
         }
+      ],
+      "sources": [
+        "https://wordpress.org",
+        "https://github.com/WordPress/WordPress"
       ]
     }
   }
