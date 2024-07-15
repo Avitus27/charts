@@ -9,7 +9,7 @@
       "home": "https://wordpress.org/",
       "recommended": false,
       "title": "Wordpress",
-      "tags": ["testing"]
+      "tags": ["testing"],
       "icon_url": "https://media.sys.truenas.net/apps/wordpress/icons/icon.png",
       "latest_version": "6.5.5",
       "latest_app_version": "6.5.5",
