@@ -6,6 +6,7 @@
       "healthy_error": null,
       "location": "/__w/todhchai-charts/charts/stable/wordpress/",
       "name": "wordpress",
+      "home": "https://wordpress.org/",
       "recommended": false,
       "title": "Wordpress",
       "icon_url": "https://media.sys.truenas.net/apps/wordpress/icons/icon.png",
