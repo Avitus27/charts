@@ -7,7 +7,8 @@
       "location": "/__w/todhchai-charts/charts/stable/wordpress/",
       "name": "wordpress",
       "recommended": false,
-      "title": "Wordpress"
+      "title": "Wordpress",
+	  "icon_url": "https://media.sys.truenas.net/apps/wordpress/icons/icon.png"
     }
   }
 }
