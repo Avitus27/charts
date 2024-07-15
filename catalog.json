@@ -25,6 +25,9 @@
       "sources": [
         "https://wordpress.org",
         "https://github.com/WordPress/WordPress"
+      ],
+      "screenshots": [
+        "https://i0.wp.com/wordpress.org/files/2023/10/showcase-middle-row.png"
       ]
     }
   }
