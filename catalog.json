@@ -8,9 +8,10 @@
       "name": "wordpress",
       "recommended": false,
       "title": "Wordpress",
-	  "icon_url": "https://media.sys.truenas.net/apps/wordpress/icons/icon.png",
-	  "latest_version": "6.5.5",
-	  "last_update": "2024-07-15 12:27:38"
+      "icon_url": "https://media.sys.truenas.net/apps/wordpress/icons/icon.png",
+      "latest_version": "6.5.5",
+      "latest_app_version": "6.5.5",
+      "last_update": "2024-07-15 12:27:38"
     }
   }
 }
